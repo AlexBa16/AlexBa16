@@ -1,5 +1,5 @@
 ## Hi there, I'm Alexander 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FB7C41&vCenter=true&repeat=false&width=435&lines=Software+and+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FB7C41&vCenter=true&width=450&lines=Software+and+Web+Developer;Always+learning;Always+listening+to+music;Always+developing)](https://git.io/typing-svg)
 
 I'm an IT student with a strong passion for **software and web development**, especially modern frontend frameworks and backend-driven web applications.
 
