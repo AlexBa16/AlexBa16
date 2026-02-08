@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there, I'm Alexander 👋
 
-<!--
-**AlexBa16/AlexBa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student with a strong passion for **software and web development**, especially modern frontend frameworks and backend-driven web applications.
 
-Here are some ideas to get you started:
+Currently studying **Information Technology (Web Development)** at **HTL Rennweg** in Vienna, I enjoy building real-world projects and exploring new technologies, particularly in **self-hosted** and **homelab** environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website: [alexanderbachinger.com](https://alexanderbachinger.com)
+
+---
+
+## 🧰 Favorite Tech Stack
+
+- **Frontend:** Vue.js, TypeScript  
+- **Backend:** Node.js
+
+---
+
+## 🚀 Projects
+
+I've built and worked on a variety of projects, both independently and in teams.
+
+One of my favorite projects is **[MyFairPipe](https://github.com/MyFairOrganization/MyFairPipe)**, developed as part of a school project together with:
+- [paulb244](https://github.com/paulb24)
+- [nfaschang007](https://github.com/nfaschang007)
+- [Alexander Reiter](https://github.com/Sunnickel)
+- [htl3r-2135](https://github.com/htl3r-2135)
+
+The project focuses on collaborative development, clean architecture, and practical problem-solving.
+
+---
+
+## 🖥️ Interests
+
+- Self-hosting & homelab  
+- Web application architecture  
+- Experimenting with new frameworks and tools  
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate or talk tech, feel free to reach out via my website:  
+👉 [alexanderbachinger.com](https://alexanderbachinger.com#contact)
