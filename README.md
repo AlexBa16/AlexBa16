@@ -7,6 +7,8 @@ Currently studying **Information Technology (Web Development)** at **HTL Rennweg
 
 🌐 Website: [alexanderbachinger.com](https://alexanderbachinger.com)
 
+> 💡 Most of my repositories (including private projects and some public ones) are hosted on my self-managed Gitea instance, so this GitHub profile does not reflect all of my work.
+
 ---
 
 ## 🧰 Favorite Tech Stack
